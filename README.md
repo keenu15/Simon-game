@@ -1,2 +1,2 @@
 # Simon-game
-Repeat the sequence correctly
+A javascript game
